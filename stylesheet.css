@@ -1,0 +1,72 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color:#665544;
+	text-align: center;
+}
+h1, h2, h3 {
+    font-family: "Merriweather", serif;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+
+nav {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+	
+main {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+.mart {
+	background-color: #F0F8FF;
+}
+.mart2 {
+	background-color: #fffffb;
+	width: 600px
+}
+.martyellow {
+	background-color: #ffffde;
+}
+.martindexw {
+	width: 440px;
+}
+.martfav {
+	width: 200px;
+	height: 300px;
+	background-color: #eee2ec;
+}
+.martcontact {
+	width: 920px;
+	background-color: #e6f0e4;
+	text-align: left;
+}
+
+
+footer {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	
